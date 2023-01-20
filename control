@@ -1,0 +1,9 @@
+Package: com.huseyin.toldyou
+Name: ToldYou
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: No one will dare to touch your phone again !
+Maintainer: Huseyin
+Author: Huseyin
+Section: Tweaks
